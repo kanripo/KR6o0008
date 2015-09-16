@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:17.067832
+#+DATE: 2015-08-30 20:59:17.455947
 #+TITLE: 因明入正理論疏
 #+PROPERTY: CBETA_ID T44n1840
 #+PROPERTY: ID KR6o0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1840
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6o0008_T_000-0091b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0008_T_001-0091b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1840[cf.No.1630]¶
-
- 因明入正理論疏卷上¶
+No. 1840 [cf. No. 1630]¶
+因明入正理論疏卷上¶
 ¶
 大慈恩寺沙門基撰¶
 
@@ -746,7 +745,7 @@ No.1840[cf.No.1630]¶
 三名。何故極成初言有法。後言能別。不以自¶
 性差別名顯。又復不以法及有法。能別所別¶
 相對為名。而各舉一有法能別。答初有三釋。¶
-一云。設致餘名必有此難。隨舉一種。何假為¶
+一云。設致餘名必有此難。隨舉一種。何雙為¶
 徵。二云。有法能有他勝。故先陳舉。明必有後
 <pb:KR6o0008_T_001-0099b>¶
 法。以釋於前陳。能別別於他勝。此宗後陳。必¶
