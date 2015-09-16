@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:17.067832
+#+DATE: 2015-08-30 20:59:18.650257
 #+TITLE: 因明入正理論疏
 #+PROPERTY: CBETA_ID T44n1840
 #+PROPERTY: ID KR6o0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1840
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@B
 #+PROPERTY: LASTPB <pb:KR6o0008_T_000-0091b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0008_T_001-0091b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1840[cf.No.1630]¶
-
- 因明入正理論疏卷上¶
+No. 1840 [cf. No. 1630]¶
+因明入正理論疏卷上¶
 ¶
 大慈恩寺沙門基撰¶
 
@@ -412,7 +411,7 @@ No.1840[cf.No.1630]¶
 立。如十四過類等。有是能立亦是似破。如決¶
 定相違。有釋。無此。此但似破。非真立故。有¶
 非能立亦非似破。謂顯過破。有釋。無此。顯他¶
-過非。自便立故。能破定非似立亦非似破。¶
+過非。自便立故。能破定非似破。¶
 真似異故。有是似立而非似破。謂有過量建¶
 立自宗。有釋。無此。自宗義成。即是真破。自¶
 既不立。即似破他。有是似破而非似立。謂妄¶

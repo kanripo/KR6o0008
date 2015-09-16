@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:17.125589
+#+DATE: 2015-08-30 20:59:18.712002
 #+TITLE: 因明入正理論疏
 #+PROPERTY: CBETA_ID T44n1840
 #+PROPERTY: ID KR6o0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1840
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@B
 #+PROPERTY: LASTPB <pb:KR6o0008_T_000-0091b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0008_T_002-0109a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 因明入正理論疏卷中¶
+因明論疏卷中¶
 ¶
-大慈恩寺沙門基撰¶
+沙門基撰¶
 
 論。喻有二種。
 
